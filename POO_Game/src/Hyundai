@@ -1,0 +1,6 @@
+public class Hyundai{
+// Clase creada por Lesly Teran
+    Hyundai(String sPlaca){
+        //Inicializando
+    }
+}
